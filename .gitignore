@@ -5,9 +5,9 @@ node_modules
 
 
 # local env 
-.env.local
-.env.*.local
-.env
+# Vue que la base de donnée est en local je me permet de laisser le .env
+
+
 
 # Log 
 npm-debug.log*
