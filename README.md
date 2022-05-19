@@ -47,4 +47,4 @@ Clonez le repo : `https://github.com/services-web/f_joanan_7_052022`
 
 #### Enfin vous pouvez accèder à l'application ! 
 * Lancez la via http://localhost:8080/
-* Un compte admin est déjà disponible, connectez-vous avec l'identifiant `Admin`et le mot de passe `Admin12345@`
+* Un compte admin est déjà disponible, connectez-vous avec l'identifiant `Admin`et le mot de passe `JeF12mql!`
