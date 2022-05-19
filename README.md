@@ -37,6 +37,7 @@ Clonez le repo : `https://github.com/services-web/f_joanan_7_052022`
 * Placez vous dans le dossier backend
 * Initialisez les packages via la commande `npm install`
 * Lancez le backend en tapant ensuite `nodemon`
+* Peut etre sera t il necessaire de l'installer avant avec `npm install -g nodemon`
 * Vérifiez bien que le backend communique via le port `:3000`
 
 #### Mettez en place la base de données de cette manière :
@@ -47,4 +48,4 @@ Clonez le repo : `https://github.com/services-web/f_joanan_7_052022`
 
 #### Enfin vous pouvez accèder à l'application ! 
 * Lancez la via http://localhost:8080/
-* Un compte admin est déjà disponible, connectez-vous avec l'identifiant `Admin`et le mot de passe `JeF12mql!`
+* Un compte admin est déjà disponible, connectez-vous avec l'identifiant `Admin`et le mot de passe `Admin1234!`
