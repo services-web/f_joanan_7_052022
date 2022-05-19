@@ -1,26 +1,30 @@
 # Projet 7 OpenClassrooms
-## Groupomania  :raised_hands:	
+	
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/vuejs-framework%20frontend-green)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-Dernier effort pour le parcours WebDev de Openclassrooms, ce projet repose sur la création d'un réseau social 
-d'entreprise en se basant sur l'usage d'un framework et des compétances acquises tout le long du parcours. 
+Parcours WebDev
+Création d'un réseau social d'entreprise en se basant sur l'usage d'un framework et des compétances acquises tout le long du parcours. 
 
-Le projet Groupomania repose sur les axes suivants :  
+ 
+-Voici les exigences émises par le comité de pilotage :
+    * la présentation des fonctionnalités doit être simple ;
+    * la création d’un compte doit être simple et possible depuis un téléphone mobile ;
+    * le profil doit contenir très peu d’informations pour que sa complétion soit rapide ;
+    * la suppression du compte doit être possible ;
+    * l’accès à un forum où les salariés publient des contenus multimédias doit être présent ;
+    * l’accès à un forum où les salariés publient des textes doit être présent ;
+    * les utilisateurs doivent pouvoir facilement repérer les dernières participations des employés ;
+    * le ou la chargé-e de communication Groupomania doit pouvoir modérer les interactions entre
+salariés ;
 
-* L'affichage de contenus personnalisés en fonction de l'utilisateur connecté
-* La communication serveur - client par l'intermédiaire d'une API 
-* Le stockage et la récupération d'informations au travers d'une base de données SQL
-* L'utilisation d'un framework côté front (ici Vue.js)
-* La sécurisation de l'application dans son ensemble
-
-### Installation :computer:  
+# Installation  
 ***
-Clonez le repo : `https://github.com/DrHyde01/StephaneHeyd_7_03082021.git` 
+Clonez le repo : `https://github.com/services-web/f_joanan_7_052022` 
 
 #### Pour lancer le frontend : 
 * Placez vous dans le dossier frontend
@@ -43,8 +47,3 @@ Clonez le repo : `https://github.com/DrHyde01/StephaneHeyd_7_03082021.git`
 #### Enfin vous pouvez accèder à l'application ! 
 * Lancez la via http://localhost:8080/
 * Un compte admin est déjà disponible, connectez-vous avec l'identifiant `Admin`et le mot de passe `Admin12345@`
-* ENJOY ! 🙂
-
-### Complément : API Guidelines :mag:
-***
-* https://documenter.getpostman.com/view/16558990/UUxxhUAG
