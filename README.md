@@ -2,10 +2,10 @@
 	
 
 ![Vue.js](https://img.shields.io/badge/vuejs-framework%20frontend-green)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-framework%20CSS-blue)
+![Sequelize](https://img.shields.io/badge/sequelise-ORM-informational)
+![Express.js](https://img.shields.io/badge/Express.js-Applications--Web-9cf)
+![NodeJS](https://img.shields.io/badge/Node--JS-environnement%20d'ex%C3%A9cution%20JavaScript-yellowgreen)
 
 Parcours WebDev
 Création d'un réseau social d'entreprise en se basant sur l'usage d'un framework et des compétances acquises tout le long du parcours. 
